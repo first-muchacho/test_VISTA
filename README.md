@@ -25,4 +25,4 @@ Copy this repo in your root derictory (where you create and activate virtual env
 
 4. SQL connect
 
-In config.py paste you data.
+In config.py paste your data.
