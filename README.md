@@ -1,4 +1,4 @@
-# test_VISTA
+# test_medcorp
 
 ## Tasks
 Tasks are contained at the beginning of files with solutions.
